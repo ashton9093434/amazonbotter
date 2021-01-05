@@ -1,0 +1,12 @@
+{
+  "prefix":"!",
+  "token":"Nzk1OTM3MTQzMjgxMTU2MTE2.X_QoOg.XG9gc5CjNyqjf4Lo4T0-63W1OGQ",
+  "minutes_per_check":2,
+  "url_params":{},
+  "guild_item_limit":5,
+  "cache_limit": 10,
+  "required_perms":["permission_1", "permission_2"],
+  "tld":"com",
+  "auto_cart_link":true,
+  "debug_enabled":false
+}
